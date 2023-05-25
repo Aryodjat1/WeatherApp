@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:padding="16dp"
     android:background="@color/white"
-    tools:context=".MainActivity">
+    tools:context=".Activities.MainActivity">
 
     <ProgressBar
         android:id="@+id/progrss_bar"
